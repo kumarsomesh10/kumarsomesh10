@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Somesh Kumar</h1>
-<h3 align="center">A passionate Web developer and Machine Learning enthusiast from India</h3>
+<h3 align="center">A passionate Web developer and Machine Learning enthusiast.</h3>
 
 - 👨‍💻 All of my projects are available at [https://someshkumarportfolio.netlify.app/](https://someshkumarportfolio.netlify.app/)
 
